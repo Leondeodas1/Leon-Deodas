@@ -20,6 +20,7 @@
     <ul>
         <li>Pokemon social media app</li>
         <li>Ai recgnition app</li>
+        <li>My CSS skills</li>
     </ul>
     <h3>I'm Currently/Ongoing Learning</h3>
     <ul>
