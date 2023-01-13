@@ -11,7 +11,7 @@
 <h1>Hi There 👋</h1>
     <h3>Im a Full-Stack Web Developer</h3>
     </div>
-    <p> I'm Leon Deodas, a Computer Software Engineer. I love to learn new things and different ways of doing things</p>
+    <p>I'm Leon Deodas, a Computer Software Engineer. I love to learn new things and create solutions in different ways. In my free time, you'll find me playing my guitar</p>
     <h3>Hobbies</h3>
     <ul>
        <li>Avid Guitar</li>
