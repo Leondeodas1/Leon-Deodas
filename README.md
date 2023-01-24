@@ -15,6 +15,8 @@
     <h3>Hobbies</h3>
     <ul>
        <li>Avid Guitar</li>
+       <li>Love Photography</li>
+       <li>skateboarding</li>
     </ul>
     <h3>I'm Currently working on</h3>
     <ul>
